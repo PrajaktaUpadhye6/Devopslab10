@@ -1,0 +1,9 @@
+{
+    "name": "docker-web-app",
+    "version": "1.0.0",
+    "description": "A simple Node.js web app for Docker",
+    "dependencies": {},
+    "scripts": {
+      "start": "node index.js"
+    }
+  }
